@@ -1,0 +1,180 @@
+.container{
+    margin-bottom: 50px;
+    
+}
+.starting-section{
+    background-color: #F0FFF0;
+    
+   
+}
+.first-h6{
+    color: red;
+}
+span{
+    color: green;
+}
+.starting-para{
+
+    padding: 40px 50px;
+}
+.navbar{
+    padding: 10px 50px;
+}
+
+.sign-btn{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    width: 104px;
+    padding: 10px 25px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    
+}
+
+.started-btn{
+    height: 43px;
+    width:153px;
+    color: white;
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    padding: 10px 36px;
+}
+
+.books{
+    padding: 0 55px;
+}
+    
+
+
+.book1, .book3, .book4{
+   height: 270px;
+   width: 260px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    padding: 40px 20px;
+    margin-left: 10px;
+}
+.book-img{
+    height: 75px;
+    width: 70px;
+    left: 231px;
+    top: 672px;
+}
+.book2{
+    height: 270px;
+    width: 270px;
+     background-color: #FFFFFF;
+     border-radius: 10px;
+     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+     padding: 40px 20px;
+     margin-left: 10px;
+}
+.online-course{
+    width: 380px;
+    height: 64px;
+    left: 568px;
+    top: 993px;
+    background-color: white;
+    font-weight: bold;
+    padding: 40px 0px;
+    margin: 93px 45%;
+    text-align: center;
+}
+.card{
+    background-color: white;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    
+    
+}
+.card-text1, .card-text2, .card-text3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.buy-now-btn{
+    position: absolute;
+    border: none;
+    color: white;
+    padding: 8px 28px;
+    background: #21B573;
+    border-radius: 33px;
+    margin-top: 20px;
+}
+.card-body{
+    height: 200px;
+    border: none;
+    background-color: white;
+}
+
+.card-pic1, .card-pic2, .card-pic3{
+    padding: 20px 15px;
+    border-radius: 11px;
+}  
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.start-time{
+    padding: 5px 0;
+}
+
+.card-section{
+    padding: 0 50px ;
+}
+.testimonial{
+    width: 380px;
+    height: 64px;
+    left: 598px;
+    top: 993px;
+    background-color: white;
+    padding: 40px 0px;
+    margin: 93px 45%;
+    color: #000000;
+    text-align: center;
+}
+.testimonial-section{
+
+    padding: 40px 90px;
+}
+.testimonial-img{
+
+    margin-left: 180px;
+}
+.testimonial-para{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #000000;
+}
+.helpline{
+    text-align: center;
+    color: tomato;
+}
+
+.fb-image{
+    margin-left: 380px;
+}
+.ending-section{
+    background: #282531;
+    padding: 40px 40px;
+   
+}
+.links{
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 16px;
+  text-align: justify;
+}
+.conclude-para{
+    padding: 15px 0;
+}
